@@ -1,6 +1,3 @@
-//scientist BENIELS LAB
-/* CREATED BY: HOW TO ELECTRONICS | MODIFIED BY: SCIENTIST BENIELS  LAB */
-
 #include <LiquidCrystal.h>
 #include <Wire.h>
 #include "MAX30100_PulseOximeter.h"
